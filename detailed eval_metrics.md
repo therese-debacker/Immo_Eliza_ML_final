@@ -39,7 +39,7 @@ I used standardization scaling on the columns.
 
 <h2>Metrics</h2>
 <img src="https://github.com/user-attachments/assets/8df3345d-4336-4084-b7be-454f7e941a4a">
-<imgh src="ttps://github.com/user-attachments/assets/9b8a0b6a-08aa-434c-acdf-9203250440d9">
+<imgh src="https://github.com/user-attachments/assets/9b8a0b6a-08aa-434c-acdf-9203250440d9">
 <br><br>
 Time taken for the entire script (from main.py):<br>
 <img src="https://github.com/user-attachments/assets/11f7437f-722a-4ec0-8f5d-bdfbe42d4fd3">
