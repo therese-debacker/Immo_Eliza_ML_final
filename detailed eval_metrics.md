@@ -38,7 +38,7 @@ I used get dummies for the other 2 categorical columns left (district & property
 I used standardization scaling on the columns. 
 
 <h2>Metrics</h2>
-![image](https://github.com/user-attachments/assets/e9134176-0576-4f1b-85e5-d0e0cca7d3c7)
+![image](https://github.com/user-attachments/assets/8df3345d-4336-4084-b7be-454f7e941a4a)
 
 Time taken for the entire script (from main.py):<br>
 ![image](https://github.com/user-attachments/assets/11f7437f-722a-4ec0-8f5d-bdfbe42d4fd3)
@@ -46,4 +46,5 @@ Time taken for the entire script (from main.py):<br>
 Testing vs training sets :<br>
 I used 20 % of testing vs 80% of training
 
-PS : I'm not finished with the cleaned code so it's not working. I added the uncleaned files so the efficiency of the model and metrics can be checked.
+PS: I was not done with the OOP and cleaning of the files on time. So I added the raw code (which is working but only works if you run the different files one by one) and the unfinished code with OOP (which is not working since the main file is not finished but uploaded anyway). The metrics and efficiency of the model can be checked with the raw code.
+In the meantime, I finished cleaning (I didn't change the model, I just cleaned and used OOP and functions only) and everything is here in case you want to run a proper code: https://github.com/therese-debacker/Immo_Eliza_ML_Clean
