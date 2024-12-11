@@ -41,8 +41,8 @@ I used standardization scaling on the columns.
 <img src="https://github.com/user-attachments/assets/8df3345d-4336-4084-b7be-454f7e941a4a">
 <br>
 Time taken for the entire script (from main.py):<br>
-![image](https://github.com/user-attachments/assets/11f7437f-722a-4ec0-8f5d-bdfbe42d4fd3)
-
+<img src="https://github.com/user-attachments/assets/11f7437f-722a-4ec0-8f5d-bdfbe42d4fd3">
+<br>
 Testing vs training sets :<br>
 I used 20 % of testing vs 80% of training
 <br><br>
