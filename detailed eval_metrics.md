@@ -1,5 +1,5 @@
 <h1>Detailed evaluation metrics</h1>
-![image](https://github.com/user-attachments/assets/686f1189-9a6b-421e-8fbc-5942de634158)
+<img src="https://github.com/user-attachments/assets/686f1189-9a6b-421e-8fbc-5942de634158">
 
 Model : Linear regression
 <h2>Features</h2>
@@ -38,7 +38,7 @@ I used get dummies for the other 2 categorical columns left (district & property
 I used standardization scaling on the columns. 
 
 <h2>Metrics</h2>
-![image](https://github.com/user-attachments/assets/8df3345d-4336-4084-b7be-454f7e941a4a)
+<img src="https://github.com/user-attachments/assets/8df3345d-4336-4084-b7be-454f7e941a4a">
 
 Time taken for the entire script (from main.py):<br>
 ![image](https://github.com/user-attachments/assets/11f7437f-722a-4ec0-8f5d-bdfbe42d4fd3)
