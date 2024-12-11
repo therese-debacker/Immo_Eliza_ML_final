@@ -39,12 +39,15 @@ I used standardization scaling on the columns.
 
 <h2>Metrics</h2>
 <img src="https://github.com/user-attachments/assets/8df3345d-4336-4084-b7be-454f7e941a4a">
-
+<br>
 Time taken for the entire script (from main.py):<br>
 ![image](https://github.com/user-attachments/assets/11f7437f-722a-4ec0-8f5d-bdfbe42d4fd3)
 
 Testing vs training sets :<br>
 I used 20 % of testing vs 80% of training
-
+<br><br>
+Here's the link for the presentation bullet points: 
+https://docs.google.com/presentation/d/1qRAU-Twhl___lVKYpkEns3eu3bo7ClQg4Tm7zMEEep4/edit?usp=sharing
+<br><br>
 PS: I was not done with the OOP and cleaning of the files on time. So I added the raw code (which is working but only works if you run the different files one by one) and the unfinished code with OOP (which is not working since the main file is not finished but uploaded anyway). The metrics and efficiency of the model can be checked with the raw code.
 In the meantime, I finished cleaning (I didn't change the model, I just cleaned and used OOP and functions only) and everything is here in case you want to run a proper code: https://github.com/therese-debacker/Immo_Eliza_ML_Clean
