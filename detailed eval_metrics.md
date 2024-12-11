@@ -10,8 +10,8 @@ Features used : <br>
 - <b>Building condition</b> (from immoweb scraping) <br>
 - <b>Swimming pool</b> (from immoweb scraping) <br>
 - <b>District</b>: broader than the zip code but smaller than the province (statbel and matched with zip codes thanks to a CSV file found with zip codes and associated refnis code) <br>
-- <b>Mean income</b> based on the zip code (statbel)  <br>
-- <b>Median price</b> of apartments or houses (statbel: median price split for houses and apartments per district - I made a new columns with the median price based on the property type (house or apartment))
+- <b>Mean income</b> based on the zip code in 2022 (statbel)  <br>
+- <b>Median price</b> of apartments or houses in 2023 (statbel: median price split for houses and apartments per district - I made a new columns with the median price based on the property type (house or apartment))
 
 ![correlation-heatmap-two](https://github.com/user-attachments/assets/fc7c300a-e312-42ac-8376-200f69a87094)
 
